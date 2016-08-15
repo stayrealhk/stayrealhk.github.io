@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>SortedMac Changelog</title>
+        <link>https://github.com/stayrealhk/stayrealhk.github.io/Releases/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 0.0.0 (Private Beta Initial Release)</title>
+            <sparkle:releaseNotesLink>
+                https://stayrealhk.github.io/Releases/0.0.0/1.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 15 Aug 2016 19:20:11 +0800</pubDate>
+            <enclosure url="https://github.com/stayrealhk/stayrealhk.github.io/releases/download/0.0.0/SortedMac_v0.0.0.zip" sparkle:version="1" sparkle:shortVersionString="0.0.0" length="1623481" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+
+    </channel>
+</rss>

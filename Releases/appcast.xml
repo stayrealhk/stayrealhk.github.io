@@ -7,6 +7,16 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.2.0 (Private Beta)</title>
+            <sparkle:releaseNotesLink>
+                https://stayrealhk.github.io/Releases/0.2.0/15.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 5 Oct 2016 14:27:00 +0800</pubDate>
+            <enclosure url="https://github.com/stayrealhk/stayrealhk.github.io/releases/download/0.2.0_15/SortedMac_v0.2.0_15.zip" sparkle:version="15" sparkle:shortVersionString="0.2.0" length="7163021" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 0.0.0 (Private Beta)</title>
             <sparkle:releaseNotesLink>
                 https://stayrealhk.github.io/Releases/0.0.0/4.html
@@ -32,7 +42,7 @@
                 https://stayrealhk.github.io/Releases/0.0.0/2.html
             </sparkle:releaseNotesLink>
             <pubDate>Mon, 15 Aug 2016 16:55:00 +0800</pubDate>
-            <enclosure url="https://github.com/stayrealhk/stayrealhk.github.io/releases/download/0.0.0_2/SortedMac_v0.0.0_2.zip" sparkle:version="2" sparkle:shortVersionString="0.0.0" length="7062453" type="application/octet-stream" />
+            <enclosure url="https://github.com/stayrealhk/stayrealhk.github.io/releases/download/0.0.0_2/SortedMac_v0.0.0_2.zip" sparkle:version="2" sparkle:shortVersionString="0.0.0" length="8005314" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
 
